@@ -30,10 +30,9 @@ Gameplay:
 -Scores update and iterate by one based off of the round's winner
 -Clicking 'New Game' clears the board for a new round
 
-Screenshots:
+Screenshot:
 **Windows GUI**
-
-
+(https://github.com/winniedel/Black-Jack-GUI-WinForms/blob/master/BlackjackwinForms.png)
 
 
 **NOTE: This GUI is only suitable for Windows devices. For macOS GUI using Avalonia please refer to

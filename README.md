@@ -36,6 +36,6 @@ Screenshots:
 
 
 
-NOTE: This GUI is only suitable for Windows devices. For macOS GUI using Avalonia please refer to
-repository [Black-Jack-GUI-Mac] or follow the link: (https://github.com/winniedel/Black-Jack-GUI-Mac)
+**NOTE: This GUI is only suitable for Windows devices. For macOS GUI using Avalonia please refer to
+repository [Black-Jack-GUI-Mac] or follow the link: (https://github.com/winniedel/Black-Jack-GUI-Mac)**
 
